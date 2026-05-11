@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Allow tokens.json
+!main/
+!main/ob/
+!main/ob/tokens.json
+
+# Allow gitignore itself
+!.gitignore
